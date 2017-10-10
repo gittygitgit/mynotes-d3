@@ -1,0 +1,59 @@
+Google charts
+	Generates SVG
+		diff from d3
+
+		SVG is standard
+
+n3-charts
+	angular 
+	built on d3
+
+	abstraction on top of d3
+
+high charts
+	pure js library
+
+	free for non-commercial use
+
+	costs money for commercial use
+
+------
+
+data driven documents
+
+lets you update DOM using data
+
+uses html, css and svg
+
+is a javascript library
+
+-------
+
+github gist
+
+blocks
+
+-------
+
+snohomish
+
+rural
+
+corn 
+
+-------
+
+------
+
+
+
+
+ 	public byte[] portName = new byte[6];
+	public byte[] firmName = new byte[6];
+	public long latency;
+	public  long numQuotes;
+	public long numBlocks;
+	public int numPurges;
+	public int numUndPurges;
+
+w

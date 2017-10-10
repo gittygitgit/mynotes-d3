@@ -1,0 +1,53 @@
+SVG 
+	Scalable vector graphics
+
+	XML-based vector image format.
+
+	Format agreed on by wc3 in 1999
+
+	Introduced w/ HTML 5
+
+
+Scalable
+	More flexible than raster images
+
+	Raster images are meant to be displayed @ a specific resolution
+
+
+
+Components of SVG images
+	Shapes
+		Line, polygon
+
+	Filters
+		Drop shadow
+		Blur
+
+	Gradients
+		Linear or radial
+		Paint
+
+Stylizing shapes
+	Filters and gradients
+	CSS
+
+
+
+d3 and SVG
+	d3 can be used to generate SVG objects 
+
+	SVG objects are just SVG rendered in an HTML page
+
+	d3 is to SVG what jquery is to javascript
+
+
+svg tag
+	width
+		defines width of svg viewport
+
+coordinate system
+	viewport
+
+	0,0 is in upper-left
+
+	one might expect it to be in lower left
